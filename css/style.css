@@ -67,10 +67,10 @@ ul{
 background-color: #E7E7E7;
 }
 .card-content img{
-width:90%;
+width:100%;
 	align-items: center;
 	align-content: center;
-	margin:0px auto;
+		margin:0px auto;
 }
 
 .card.det img{
